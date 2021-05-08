@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="more">More</string>
+    <string name="content_description_search">menu_item_1</string>
+    <string name="search">Search</string>
+    <string name="content_description_more">menu_item_2</string>
+    <string name="add_button">add_button</string>
+    <string name="submit">submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="title">Title</string>
+    <string name="note_details">Note details</string>
+    <string name="add_note">Enter new note : </string>
+</resources>
